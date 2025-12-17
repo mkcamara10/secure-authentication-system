@@ -1,0 +1,54 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+.vite/
+*.cache
+
+# React / Vite
+.vite/
+*.lock
+coverage/
+
+# IDEs / Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Android Studio / Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+local.properties
+*.iml
+*.hprof
+
+# Misc
+*.swp
+*.class
+*.jar
+*.apk
+*.keystore
